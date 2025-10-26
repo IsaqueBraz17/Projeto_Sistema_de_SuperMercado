@@ -1,0 +1,15 @@
+C:\Users\isaqu\OneDrive\Documents\Curso de programação\Projeto_Sistema_de_SuperMercado\Projeto_Sistema_de_SuperMercado\bin\Debug\net9.0\Projeto_Sistema_de_SuperMercado.exe
+C:\Users\isaqu\OneDrive\Documents\Curso de programação\Projeto_Sistema_de_SuperMercado\Projeto_Sistema_de_SuperMercado\bin\Debug\net9.0\Projeto_Sistema_de_SuperMercado.deps.json
+C:\Users\isaqu\OneDrive\Documents\Curso de programação\Projeto_Sistema_de_SuperMercado\Projeto_Sistema_de_SuperMercado\bin\Debug\net9.0\Projeto_Sistema_de_SuperMercado.runtimeconfig.json
+C:\Users\isaqu\OneDrive\Documents\Curso de programação\Projeto_Sistema_de_SuperMercado\Projeto_Sistema_de_SuperMercado\bin\Debug\net9.0\Projeto_Sistema_de_SuperMercado.dll
+C:\Users\isaqu\OneDrive\Documents\Curso de programação\Projeto_Sistema_de_SuperMercado\Projeto_Sistema_de_SuperMercado\bin\Debug\net9.0\Projeto_Sistema_de_SuperMercado.pdb
+C:\Users\isaqu\OneDrive\Documents\Curso de programação\Projeto_Sistema_de_SuperMercado\Projeto_Sistema_de_SuperMercado\obj\Debug\net9.0\Projeto_Sistema_de_SuperMercado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isaqu\OneDrive\Documents\Curso de programação\Projeto_Sistema_de_SuperMercado\Projeto_Sistema_de_SuperMercado\obj\Debug\net9.0\Projeto_Sistema_de_SuperMercado.AssemblyInfoInputs.cache
+C:\Users\isaqu\OneDrive\Documents\Curso de programação\Projeto_Sistema_de_SuperMercado\Projeto_Sistema_de_SuperMercado\obj\Debug\net9.0\Projeto_Sistema_de_SuperMercado.AssemblyInfo.cs
+C:\Users\isaqu\OneDrive\Documents\Curso de programação\Projeto_Sistema_de_SuperMercado\Projeto_Sistema_de_SuperMercado\obj\Debug\net9.0\Projeto_Sistema_de_SuperMercado.csproj.CoreCompileInputs.cache
+C:\Users\isaqu\OneDrive\Documents\Curso de programação\Projeto_Sistema_de_SuperMercado\Projeto_Sistema_de_SuperMercado\obj\Debug\net9.0\Projeto_Sistema_de_SuperMercado.sourcelink.json
+C:\Users\isaqu\OneDrive\Documents\Curso de programação\Projeto_Sistema_de_SuperMercado\Projeto_Sistema_de_SuperMercado\obj\Debug\net9.0\Projeto_Sistema_de_SuperMercado.dll
+C:\Users\isaqu\OneDrive\Documents\Curso de programação\Projeto_Sistema_de_SuperMercado\Projeto_Sistema_de_SuperMercado\obj\Debug\net9.0\refint\Projeto_Sistema_de_SuperMercado.dll
+C:\Users\isaqu\OneDrive\Documents\Curso de programação\Projeto_Sistema_de_SuperMercado\Projeto_Sistema_de_SuperMercado\obj\Debug\net9.0\Projeto_Sistema_de_SuperMercado.pdb
+C:\Users\isaqu\OneDrive\Documents\Curso de programação\Projeto_Sistema_de_SuperMercado\Projeto_Sistema_de_SuperMercado\obj\Debug\net9.0\Projeto_Sistema_de_SuperMercado.genruntimeconfig.cache
+C:\Users\isaqu\OneDrive\Documents\Curso de programação\Projeto_Sistema_de_SuperMercado\Projeto_Sistema_de_SuperMercado\obj\Debug\net9.0\ref\Projeto_Sistema_de_SuperMercado.dll
